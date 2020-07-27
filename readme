@@ -1,1 +1,18 @@
 中文测试
+{
+    "group_id": 1420,
+    "content_title": "CCLIVE直播",
+    "content_type": 1,
+    "start_time": "2020-08-12 00:00:00",
+    "teacher_uid": 1780010,
+    "assistant_uid": "[3112754,3697737,7574999]",
+    "section_id": 5463,
+    "chapter_id": 201567,
+    "course_id": "211366",
+    "publisherpass": "79394215",
+    "assistantpass": "12295497",
+    "playpass": "19133523",
+    "end_time": "2020-09-13 00:00:00",
+    "content_id": null,
+    "template_id": 3
+}
